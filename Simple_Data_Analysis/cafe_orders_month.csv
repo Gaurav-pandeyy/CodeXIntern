@@ -1,0 +1,101 @@
+Order ID,Customer Name,Order Date,Items Ordered,Quantity,Total Price,Payment Method
+101,Alice King,2024-09-02,Sandwich,1,9.05,Cash
+102,Laura White,2024-09-16,Scone,3,10.24,Credit Card
+103,John Doe,2024-09-15,Coffee,5,11.45,Credit Card
+104,Tom Harris,2024-09-16,Sandwich,2,16.1,Cash
+105,David Black,2024-09-21,Tea,1,15.23,Debit Card
+106,Linda Green,2024-09-19,Scone,4,19.66,Credit Card
+107,Oliver Stone,2024-09-20,Espresso,3,3.31,Credit Card
+108,Chris Blue,2024-09-30,Muffin,4,6.09,Credit Card
+109,Brian Brown,2024-09-16,Tea,3,13.87,Debit Card
+110,Jane Smith,2024-09-04,Cappuccino,5,10.82,Cash
+111,John Doe,2024-09-27,Muffin,2,14.35,Credit Card
+112,Tom Harris,2024-09-12,Espresso,4,10.34,Debit Card
+113,Brian Brown,2024-09-28,Espresso,5,17.72,Cash
+114,Emma Brown,2024-09-14,Tea,1,18.76,Debit Card
+115,Michael Lee,2024-09-06,Cappuccino,2,15.32,Credit Card
+116,Michael Lee,2024-09-10,Espresso,3,17.65,Cash
+117,Alice King,2024-09-30,Muffin,2,5.92,Debit Card
+118,David Black,2024-09-05,Coffee,2,9.07,Debit Card
+119,Laura White,2024-09-05,Tea,5,10.61,Debit Card
+120,Nina Patel,2024-09-26,Sandwich,3,3.79,Cash
+121,David Black,2024-09-05,Cappuccino,4,12.89,Credit Card
+122,Nina Patel,2024-09-03,Coffee,4,18.11,Debit Card
+123,Jane Smith,2024-09-02,Muffin,3,7.4,Credit Card
+124,Sara Connor,2024-09-26,Cappuccino,5,10.35,Debit Card
+125,Sara Connor,2024-09-22,Muffin,3,18.61,Credit Card
+126,David Black,2024-09-23,Latte,2,10.51,Credit Card
+127,Chris Blue,2024-09-20,Cappuccino,5,13.14,Cash
+128,John Doe,2024-09-30,Coffee,2,12.34,Cash
+129,Alice King,2024-09-15,Cappuccino,5,7.92,Credit Card
+130,Jane Smith,2024-09-03,Tea,3,10.77,Credit Card
+131,Tom Harris,2024-09-28,Cappuccino,1,5.98,Credit Card
+132,Emma Brown,2024-09-30,Latte,2,19.6,Credit Card
+133,Chris Blue,2024-09-13,Coffee,4,10.68,Cash
+134,Chris Blue,2024-09-03,Sandwich,5,16.88,Cash
+135,Linda Green,2024-09-12,Latte,4,15.77,Debit Card
+136,Oliver Stone,2024-09-14,Cappuccino,3,8.87,Credit Card
+137,Jane Smith,2024-09-29,Latte,4,9.84,Debit Card
+138,Laura White,2024-09-19,Muffin,1,11.72,Cash
+139,Alice King,2024-09-09,Sandwich,3,6.54,Debit Card
+140,Sara Connor,2024-09-17,Latte,5,19.57,Debit Card
+141,Nina Patel,2024-09-28,Espresso,2,10.03,Debit Card
+142,Emma Brown,2024-09-15,Coffee,4,15.42,Debit Card
+143,Jane Smith,2024-09-12,Espresso,5,12.07,Credit Card
+144,David Black,2024-09-30,Sandwich,3,8.12,Debit Card
+145,Alice King,2024-09-14,Sandwich,1,7.36,Credit Card
+146,Nina Patel,2024-09-10,Espresso,5,6.57,Credit Card
+147,Linda Green,2024-09-14,Espresso,2,14.01,Credit Card
+148,Sara Connor,2024-09-03,Coffee,4,6.57,Cash
+149,Jane Smith,2024-09-07,Muffin,1,3.49,Cash
+150,Oliver Stone,2024-09-05,Tea,2,17.95,Cash
+151,Jane Smith,2024-09-25,Scone,1,3.76,Cash
+152,Tom Harris,2024-09-05,Latte,4,19.76,Debit Card
+153,John Doe,2024-09-13,Muffin,5,18.15,Debit Card
+154,Sara Connor,2024-09-23,Coffee,1,19.11,Debit Card
+155,David Black,2024-09-28,Coffee,1,13.73,Credit Card
+156,Jane Smith,2024-09-29,Coffee,2,13.64,Debit Card
+157,Nina Patel,2024-09-05,Espresso,3,7.07,Debit Card
+158,John Doe,2024-09-22,Tea,2,12.48,Cash
+159,Oliver Stone,2024-09-21,Muffin,2,3.45,Credit Card
+160,Alice King,2024-09-01,Muffin,5,16.89,Credit Card
+161,David Black,2024-09-25,Latte,2,5.14,Cash
+162,Jane Smith,2024-09-12,Latte,4,8.18,Credit Card
+163,David Black,2024-09-19,Cappuccino,5,13.61,Debit Card
+164,Laura White,2024-09-09,Muffin,4,10.42,Cash
+165,Emily Johnson,2024-09-30,Sandwich,1,11.72,Cash
+166,Michael Lee,2024-09-26,Muffin,5,19.8,Debit Card
+167,Emma Brown,2024-09-29,Espresso,1,3.94,Cash
+168,Laura White,2024-09-06,Muffin,1,11.48,Credit Card
+169,Alice King,2024-09-18,Coffee,2,6.89,Debit Card
+170,Linda Green,2024-09-02,Espresso,5,6.82,Credit Card
+171,Nina Patel,2024-09-27,Muffin,3,15.71,Debit Card
+172,Michael Lee,2024-09-11,Sandwich,3,9.48,Cash
+173,Emily Johnson,2024-09-10,Cappuccino,2,5.18,Credit Card
+174,Laura White,2024-09-15,Tea,1,15.53,Credit Card
+175,Oliver Stone,2024-09-01,Coffee,2,11.75,Debit Card
+176,John Doe,2024-09-12,Muffin,4,16.2,Debit Card
+177,Emma Brown,2024-09-13,Sandwich,2,19.34,Cash
+178,Emily Johnson,2024-09-02,Scone,4,17.48,Cash
+179,Jane Smith,2024-09-14,Cappuccino,3,10.01,Debit Card
+180,Linda Green,2024-09-30,Latte,3,16.73,Cash
+181,Oliver Stone,2024-09-22,Latte,4,10.33,Debit Card
+182,Michael Lee,2024-09-28,Coffee,4,5.39,Cash
+183,Laura White,2024-09-10,Coffee,5,8.91,Cash
+184,Chris Blue,2024-09-05,Scone,2,11.73,Cash
+185,Emma Brown,2024-09-21,Espresso,2,8.4,Debit Card
+186,Jane Smith,2024-09-24,Cappuccino,3,9.29,Cash
+187,Linda Green,2024-09-14,Muffin,4,7.84,Debit Card
+188,Linda Green,2024-09-19,Latte,5,11.7,Credit Card
+189,John Doe,2024-09-21,Tea,4,11.57,Debit Card
+190,John Doe,2024-09-24,Cappuccino,5,15.3,Credit Card
+191,Laura White,2024-09-05,Tea,5,7.39,Credit Card
+192,Chris Blue,2024-09-01,Muffin,5,4.34,Cash
+193,Michael Lee,2024-09-24,Cappuccino,4,8.42,Debit Card
+194,Nina Patel,2024-09-17,Espresso,4,18.87,Debit Card
+195,Sara Connor,2024-09-18,Scone,1,8.26,Cash
+196,Linda Green,2024-09-04,Muffin,3,4.43,Cash
+197,Tom Harris,2024-09-24,Cappuccino,1,17.52,Debit Card
+198,Jane Smith,2024-09-11,Tea,4,8.9,Credit Card
+199,Michael Lee,2024-09-23,Tea,4,14.9,Debit Card
+200,David Black,2024-09-15,Cappuccino,3,3.06,Credit Card
